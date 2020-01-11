@@ -1,0 +1,1 @@
+wget -rkpN --no-parent -e  robots=off  https://www.sec.gov/Archives/edgar/full-index/
