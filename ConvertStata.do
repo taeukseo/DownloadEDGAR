@@ -1,5 +1,3 @@
-cd C:\Users\taeuks\temp\EDGAR
-
 forvalues y = 1993/2019 {
     forvalues q = 1/4 {
     import delimited ./csv/Y`y'Q`q'.csv, clear
